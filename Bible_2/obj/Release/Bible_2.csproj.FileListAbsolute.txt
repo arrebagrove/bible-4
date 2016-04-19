@@ -1,0 +1,79 @@
+C:\Users\Elroy\Desktop\Bible_2\Bible_2\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\Elroy\Desktop\Bible_2\Bible_2\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Elroy\Desktop\Bible_2\Bible_2\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Elroy\Desktop\Bible_2\Bible_2\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Elroy\Desktop\Bible_2\Bible_2\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Elroy\Desktop\Bible_2\Bible_2\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Elroy\Desktop\Bible_2\Bible_2\Bin\Release\Bible_2.dll
+C:\Users\Elroy\Desktop\Bible_2\Bible_2\Bin\Release\Bible_2.pdb
+C:\Users\Elroy\Desktop\Bible_2\Bible_2\Bin\Release\AppManifest.xaml
+C:\Users\Elroy\Desktop\Bible_2\Bible_2\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Elroy\Desktop\Bible_2\Bible_2\Bin\Release\Bible_2_Release_AnyCPU.xap
+C:\Users\Elroy\Desktop\Bible_2\Bible_2\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Elroy\Desktop\Bible_2\Bible_2\obj\Release\App.g.cs
+C:\Users\Elroy\Desktop\Bible_2\Bible_2\obj\Release\ChapterPage.g.cs
+C:\Users\Elroy\Desktop\Bible_2\Bible_2\obj\Release\MainPage.g.cs
+C:\Users\Elroy\Desktop\Bible_2\Bible_2\obj\Release\Read.g.cs
+C:\Users\Elroy\Desktop\Bible_2\Bible_2\obj\Release\Bible_2.g.resources
+C:\Users\Elroy\Desktop\Bible_2\Bible_2\obj\Release\Bible_2.Resources.AppResources.resources
+C:\Users\Elroy\Desktop\Bible_2\Bible_2\obj\Release\Bible_2.csproj.GenerateResource.Cache
+C:\Users\Elroy\Desktop\Bible_2\Bible_2\obj\Release\Bible_2.dll
+C:\Users\Elroy\Desktop\Bible_2\Bible_2\obj\Release\Bible_2.pdb
+C:\Users\Elroy\Desktop\Bible_2\Bible_2\obj\Release\XapCacheFile.xml
+C:\Users\Elroy\Desktop\Bible_2\Bible_2\obj\Release\Bible_2.csprojResolveAssemblyReference.cache
+C:\Users\Elroy\Desktop\Bible_2\Bible_2\Bin\Release\Coding4Fun.Toolkit.Audio.dll
+C:\Users\Elroy\Desktop\Bible_2\Bible_2\Bin\Release\Coding4Fun.Toolkit.Controls.dll
+C:\Users\Elroy\Desktop\Bible_2\Bible_2\Bin\Release\Coding4Fun.Toolkit.Net.dll
+C:\Users\Elroy\Desktop\Bible_2\Bible_2\Bin\Release\Coding4Fun.Toolkit.Storage.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\Bible_2.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\Bible_2.pdb
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\AppManifest.xaml
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\Bible_2_Release_AnyCPU.xap
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\Coding4Fun.Toolkit.Audio.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\Coding4Fun.Toolkit.Controls.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\Coding4Fun.Toolkit.Net.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\Coding4Fun.Toolkit.Storage.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\obj\Release\Bible_2.csprojResolveAssemblyReference.cache
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\obj\Release\App.g.cs
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\obj\Release\ChapterPage.g.cs
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\obj\Release\MainPage.g.cs
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\obj\Release\Read.g.cs
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\obj\Release\Bible_2.g.resources
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\obj\Release\Bible_2.Resources.AppResources.resources
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\obj\Release\Bible_2.csproj.GenerateResource.Cache
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\obj\Release\Bible_2.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\obj\Release\Bible_2.pdb
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\obj\Release\XapCacheFile.xml
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\RateMyApp.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\ar-SA\RateMyApp.resources.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\de-DE\RateMyApp.resources.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\en-GB\RateMyApp.resources.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\en-US\RateMyApp.resources.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\es-ES\RateMyApp.resources.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\fi-FI\RateMyApp.resources.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\fr-FR\RateMyApp.resources.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\he-IL\RateMyApp.resources.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\hr-HR\RateMyApp.resources.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\hu-HU\RateMyApp.resources.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\it-IT\RateMyApp.resources.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\lt-LT\RateMyApp.resources.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\nb-NO\RateMyApp.resources.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\nl-NL\RateMyApp.resources.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\pl-PL\RateMyApp.resources.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\pt-BR\RateMyApp.resources.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\pt-PT\RateMyApp.resources.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\ro-RO\RateMyApp.resources.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\ru-RU\RateMyApp.resources.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\sl-SI\RateMyApp.resources.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\sv-SE\RateMyApp.resources.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\uk-UA\RateMyApp.resources.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\vi-VN\RateMyApp.resources.dll
+C:\Users\Elroy\documents\visual studio 2012\Projects\Bible_2\Bible_2\Bin\Release\zh-CN\RateMyApp.resources.dll

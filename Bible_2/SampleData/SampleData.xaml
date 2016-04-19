@@ -1,0 +1,38 @@
+﻿<vm:BibleModel
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:vm="clr-namespace:Bible_2.ViewModels">
+
+    <vm:BibleModel.OldT>
+        <vm:Testament Title="Old Testament">
+            <vm:Testament.Items>
+                <vm:Book Title="Genesis" FilePath="ABC" >
+                    <vm:Book.Items>
+                        <vm:Chapter Title="One" FilePath="ABC" >
+                            <vm:Chapter.Items>
+                                <vm:Verse Title="One" FilePath="ABC" />
+                            </vm:Chapter.Items>
+                        </vm:Chapter>
+                    </vm:Book.Items>
+                </vm:Book>
+            </vm:Testament.Items>
+        </vm:Testament>
+    </vm:BibleModel.OldT>
+
+    <vm:BibleModel.NewT>
+        <vm:Testament Title="New Testament">
+            <vm:Testament.Items>
+                <vm:Book Title="Mathew" FilePath="ABC" >
+                    <vm:Book.Items>
+                        <vm:Chapter Title="One" FilePath="ABC" >
+                            <vm:Chapter.Items>
+                                <vm:Verse Title="One" FilePath="ABC" />
+                            </vm:Chapter.Items>
+                        </vm:Chapter>
+                    </vm:Book.Items>
+                </vm:Book>
+            </vm:Testament.Items>
+        </vm:Testament>
+    </vm:BibleModel.NewT>
+
+</vm:BibleModel>

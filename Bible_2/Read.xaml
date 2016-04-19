@@ -1,0 +1,31 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Bible_2.Read"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" >
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="/Assets/page.jpg"/>
+        </Grid.Background>
+        <TextBlock x:Name="Bookname" Height="50" Width="Auto" Text="Genesis" VerticalAlignment="Top" HorizontalAlignment="Center" FontFamily="Times New Roman" FontSize="50" Foreground="Brown" />
+        <ScrollViewer HorizontalAlignment="Left" Height="635" Margin="25,65,0,0" VerticalAlignment="Top" Width="423">
+            <phone:WebBrowser x:Name="sd" Background="Transparent" Height="626"/>
+
+        </ScrollViewer>
+
+        <Button x:Name="Prev" Content="Previous" Height="100" Width="200" Margin="36,700,244,0" BorderBrush="DarkOrange" Background="DarkOrange" Click="Prev_Click"/>
+        <Button x:Name="Next" Content="Next" Height="100" Width="200" Margin="248,700,32,0" BorderBrush="DarkOrange" Background="DarkOrange" Click="Next_Click" />
+    </Grid>
+
+</phone:PhoneApplicationPage>
